@@ -1,0 +1,19 @@
+===== SERVER HEALTH CHECK =====
+Date: Sat Jun  6 03:17:10 IST 2026
+
+---- DISK USAGE ----
+Filesystem                                       Size  Used Avail Use% Mounted on
+C:/Users/STA-MADH-53/AppData/Local/Programs/Git  475G  121G  355G  26% /
+
+---- MEMORY USAGE ----
+
+---- CPU LOAD ----
+
+---- RUNNING SERVICES (ssh, cron, docker) ----
+./server_health_check.sh: line 30: systemctl: command not found
+
+./server_health_check.sh: line 30: systemctl: command not found
+
+./server_health_check.sh: line 30: systemctl: command not found
+
+===== END OF REPORT =====
